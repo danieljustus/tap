@@ -2,7 +2,7 @@ class Symmeet < Formula
   desc "Local-first, standalone meeting-artifact tool"
   homepage "https://github.com/danieljustus/symaira-meet"
   url "https://github.com/danieljustus/symaira-meet/releases/download/v0.4.0-beta.1/symmeet_v0.4.0-beta.1_darwin_arm64.tar.gz"
-  sha256 "25046c3f54534d0afda59c96bcb62c435a87b3b4debd8f7d8670fd5d5131f284"
+  sha256 "bfdf94535e0ae4e73446c8f3cbde75978fe430872332122c443b4b15a7d5f2c8"
   license "Apache-2.0"
 
   depends_on macos: :sequoia
